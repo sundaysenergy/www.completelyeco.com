@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.completelyeco.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Completely Eco - I2E</title>
+ <link>http://www.completelyeco.com/tags/i2e</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Solar Efficiency has a “Bright” Future</title>
+ <link>http://www.completelyeco.com/articles/solar-efficiency-has-%E2%80%9Cbright%E2%80%9D-future</link>
+ <description>
+&lt;div class=&quot;serif field field-name-body field-type-text-with-summary field-label-hidden clearfix&quot;&gt;
+  
+  &lt;!-- THIS SHOULD BE FOR JUST THE BODY --&gt;
+  
+  &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Solar efficiency may be getting even more of a boost in the near future with the exciting new technologies being developed at Stanford University, and MIT.&lt;/p&gt;
+&lt;p&gt;The biggest plague to solar technology is the efficiency rate of turning solar energy into usable electricity.  Since the inception of solar photovoltaics, the industry has made leaps and bounds, advancing from an efficiency of less than 1% to upwards of 20%, and things just keep getting better.&lt;/p&gt;
+&lt;p&gt;Up north at prestigious MIT, graduate students and professors have come together to develop an online tool called: “Impurities to Efficiency” or I2E.  The program is designed to help solar cell manufacturers streamline their processes (which until now has been wholly dependent on trial and error, guided by intuition and experience) and create highly efficient solar cells, at a much faster pace.&lt;/p&gt;
+&lt;p&gt;Assistant Professor on the project, Tonio Bionassisi, is very proud of the achievements made by him and his team; confident that this new program will help streamline production, thus lowering cost, while maintaining or even improving efficiency.&lt;/p&gt;
+&lt;p&gt;As an example he shared the story of a company called “Varian Semiconductor Equipment Associates,” who were recently acquired by “Applied Materials.”  Before I2E, VSEA had been producing solar panels using a long and arduous process.  Attempts to speed up production resulted in a very high sacrifice in cell performance, but by using the I2E program, VSEA “came up with a program that was about 5 times faster than the original, while performing just as well.”&lt;/p&gt;
+&lt;p&gt;So what exactly is I2E, and how does it work?  Very complicatedly.&lt;/p&gt;
+&lt;p&gt;Basically, when making a silicon solar cell you start with a slice of highly purified silicon crystal, which is then processed through several stages of heating and cooling.  Even though the silicon used has already been purified to 99.9999% there are still trace amounts of iron molecules, which, depending on how they are distributed in the cell, can greatly affect efficiency.  The size and distribution of these particles has the added impediment of being hard to predict, and measure.&lt;/p&gt;
+&lt;p&gt;That’s where I2E comes in.  The program uses basic physics and detailed computer simulation to predict exactly how the iron atoms and particles will behave during the wafer manufacturing process.&lt;/p&gt;
+&lt;p&gt;David Fenning, a graduate student working on the project, explained how iron particles, even the same amount, can have different effects based on their distribution through the cell with the following analogy of protesters in the city: If the protesters gather together in one intersection, they may block traffic at that point, but cars can still find their way around and there is little disruption.  “But if there is one person in the middle of every intersection, the whole city could shut down.”  Thus showing how significant this program is in the production of solar cells, allowing manufacturers to predict the most effective heating and cooling combinations to produce the most efficient cells.&lt;/p&gt;
+&lt;p&gt;Meanwhile, on the other side of the country at Stanford University; new technology is being developed for the harnessing of light in thin film panels.  The inspiration of which, came from an unlikely source: The US Capitol’s Statutory Hall; or more specifically its acoustic phenomenon: the whispering gallery.&lt;/p&gt;
+&lt;p&gt;For those who don’t know, the US Capitol’s Statutory Hall has a semi-circular domed perimeter which allows sound to be whisked around to the opposite side of the room, almost flawlessly, meaning a whisper made on one side of the room, is easily picked up on the other.  This inspired researchers to ask: if it works for sound, why not light too?&lt;br /&gt;
+So Stanford Engineers set about creating tiny hollow spheres of photovoltaic nanocrystalline-silicon.  &lt;/p&gt;
+&lt;p&gt;“Nanocrystalline-silicon is a great photovoltaic material.  It has high electrical efficiency and is durable in the harsh sun,” said Stanford professor of Engineering, Shanhui Fan.&lt;/p&gt;
+&lt;p&gt;When set in the hollow spherical shape, the light sensitive material captures and recirculates the light, just like the whispering gallery does with sound.&lt;/p&gt;
+&lt;p&gt;“The light gets trapped inside the nanoshells,” explained Professor of Material Science Engineering Yi Cui.  “It circulates round and round rather than passing through and this is very desirable in solar applications.”&lt;/p&gt;
+&lt;p&gt;This new structuring and production has even more benefits than just recirculating light.  The spheres are able to absorb 75% of light in important ranges of the solar spectrum.  They use 1/20th of the normal amount of material needed to produce a cell; thus weighing 1/20th the amount, and costing much less to produce.  They also are relatively indifferent to the angle of light hitting them, and are thin enough that they can bend and twist with-out damage, opening up a whole new range of possible applications!&lt;/p&gt;
+&lt;p&gt;Which begs the question: is there anything we CAN’T use solar for!?  Only time will tell, but right now the future looks very, very bright!&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/solar&quot;&gt;Solar&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/sustainable&quot;&gt;Sustainable&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/nanocrystalline-silicon&quot;&gt;Nanocrystalline-silicon&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/greenspring-energy&quot;&gt;Greenspring Energy&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/paul-witteman&quot;&gt;Paul Witteman&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/i2e&quot;&gt;I2E&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 16 Feb 2012 18:42:06 +0000</pubDate>
+ <dc:creator>awarrington</dc:creator>
+ <guid isPermaLink="false">125 at http://www.completelyeco.com</guid>
+ <comments>http://www.completelyeco.com/articles/solar-efficiency-has-%E2%80%9Cbright%E2%80%9D-future#comments</comments>
+</item>
+</channel>
+</rss>
